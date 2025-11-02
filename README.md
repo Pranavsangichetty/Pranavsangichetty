@@ -40,8 +40,6 @@ Conducted EDA on real-world datasets using Python, Pandas, and Seaborn to uncove
 
 ## 🛠️ Tech Stack & Tools
 
-## 🛠️ Tech Stack & Tools
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -73,12 +71,9 @@ Conducted EDA on real-world datasets using Python, Pandas, and Seaborn to uncove
 
 ---
 
-## 🌐 Connect with Me
+---
 
-📫 **Email:** [sangichettypranav@gmail.com](mailto:sangichettypranav@gmail.com)
+✨ *“Turning data into decisions and algorithms into action.”*
 
-🔗 **LinkedIn:** [linkedin.com/in/pranav-sangichetty](https://www.linkedin.com/in/pranav-sangichetty)
-
-💻 **GitHub:** [github.com/Pranavsangichetty](https://github.com/Pranavsangichetty)
 
 
