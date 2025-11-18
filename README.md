@@ -21,8 +21,8 @@
 💡 **AI-Powered Text Intelligence System using LLMs**
 Engineered a unified NLP system leveraging transformer-based LLMs for natural language to SQL translation and text classification, improving query accuracy and automation in data analysis workflows.
 
-📊 **Exploratory Data Analysis (EDA)**
-Conducted EDA on real-world datasets using Python, Pandas, and Seaborn to uncover insights, detect anomalies, and visualize meaningful patterns.
+📊 **Sample Superstore Dashboard**
+Executed a full-cycle business intelligence project on the Superstore dataset, leveraging MySQL/SQL for data cleaning, transformation, and calculating core KPIs. Developed a comprehensive, interactive Power BI Dashboard to visualize sales trends, profitability margins, top products, and geographical performance for actionable business insights.
 
 ---
 
